@@ -1,0 +1,8 @@
+{
+  "uuid": "timer@otso.tech",
+  "name": "Timer",
+  "description": "A simple timer extension for the top bar",
+  "version": 1,
+  "shell-version": ["46"],
+  "url": "https://otso.tech/"
+}
