@@ -3,6 +3,6 @@
   "name": "Timer",
   "description": "A simple timer extension for the top bar",
   "version": 1,
-  "shell-version": ["46"],
+  "shell-version": ["44", "45","46"],
   "url": "https://otso.tech/"
 }
